@@ -1,4 +1,4 @@
-Hi 👋, I'm Pratik Jadhav
+Hi 👋, I'm Pratik Jadhav//
 🌱 I’m currently learning AI/ML<br><br>👯 I’m looking to contribute on Open Source<br><br>💬 Ask me about Python, SQL<br><br>📫 How to reach me pratikkjadhav392@gmail.com
 
 
